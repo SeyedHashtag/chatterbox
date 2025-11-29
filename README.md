@@ -50,7 +50,7 @@ Alternatively, you can install from source:
 # conda create -yn chatterbox python=3.11
 # conda activate chatterbox
 
-git clone https://github.com/resemble-ai/chatterbox.git
+git clone https://github.com/SeyedHashtag/chatterbox.git
 cd chatterbox
 pip install -e .
 ```
